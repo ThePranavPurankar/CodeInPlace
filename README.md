@@ -55,5 +55,24 @@
 ## About The Project
 
 The Bajillion search engine is the final project in Code In Place 2023. This searches the entered keyword in the BBC dataset, details can be found in Assignment_6.pdf.
+This assignment will give you an opportunity to use many of your Python skills to build an application that you probably now use on a daily basis - a search engine!
+
+The project is broken up into three sections, plus an optional extension of the search engine:
+  1.The first part of the assignment is a sandcastle problem to give you practice writing a function
+    involving lists that you then might leverage in the second part of the assignment.
+  
+  2.In the second part of the assignment you'll be building a search engine from the ground up. It will give
+    you a chance to see how concepts from CS106A are directly applicable to build some of the powerful
+    applications we now use on a daily basis. And, we'll give you a little relevant history there as well.
+
+  •Optional extension: Use classes to take your search engine on
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Built With
+• HTML
+• Python3
+• CSS
+• JavaScript
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
